@@ -8,7 +8,7 @@ course link : https://classroom.udacity.com/courses/ud405
 # How to Run
 1.Install Java Runtime Environment (JRE) - https://java.com/en/download/ see this article for further guidance - https://windowsreport.com/jar-file-windows/#1
 
-2.Open IciclesGame.jar file (windows) OR navigate to the file directory and run java -jar IciclesGame.jar on the terminal (Linux).
+2.Open ```IciclesGame.jar``` file (windows) OR navigate to the file directory and run```java -jar IciclesGame.jar``` on the terminal (Linux).
 
 # Screen Shot
 
