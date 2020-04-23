@@ -1,6 +1,7 @@
 # Icicles
 It is a game in which the player is trying to avoid the icicles that are falling on him.
-this game is totally inspired by Udacity 2D Game Development with libGDX.
+
+this game is totally inspired by Udacity 2D Game Development with libGDX Course and it was made for learning LibGDX.
 
 
 course link : https://classroom.udacity.com/courses/ud405
